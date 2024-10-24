@@ -1,4 +1,4 @@
-# CovidData #
+# Covid Data #
 ---------------------------
 Libraries Used:
 
